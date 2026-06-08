@@ -1,4 +1,4 @@
-# CNNbaseline + augmentation — Cómo ejecutarlo
+# CNNbaseline + augmentation + QAT— Cómo ejecutarlo
 
 Entrena la misma CNN baseline dos veces (con y sin data augmentation) y evalúa
 ambas para poder compararlas.
@@ -37,6 +37,7 @@ Cada rama guarda archivos distintos (`best_baseline_cnn.pth` vs
 `best_baseline_augmented.pth`), así que no se pisan entre sí. Compara el error de
 validación que reportan los dos `evaluate.ipynb`.
 
+Para el notebook de QAT es seguir el mismo proceso, ejecutando de arriba a abajo.
 
 # NaimishNet — Cómo ejecutarlo
 
