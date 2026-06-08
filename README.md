@@ -54,6 +54,7 @@ y evalúa los resultados comparándolos con la Baseline CNN.
 
 **IMPORTANTE**
 Si no quieres ejecutar el preprocess y el training y solo quieres ejecutar el test.ipynb y error_analysis.ipynb, este link del drive tiene un zip con todos los .pkl, .npy.
+"https://drive.google.com/drive/folders/13No2AKKtnhhMYm1FBkmenmUAEL7fT-FG?usp=sharing"
 Simplemente descomprimes los archivos en la carpeta preprocessed y ejecutas los dos test.ipynb y error_analysis.ipynb.
 
 ## 2. Lo que TIENES que cambiar
