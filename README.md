@@ -50,6 +50,8 @@ y evalúa los resultados comparándolos con la Baseline CNN.
    `Data/preprocessed/images_50k.npy` y `keypoints_50k.npy`.
 3. Ejecuta **todas** las celdas de `preprocess_100k.ipynb` para generar
    `Data/preprocessed/images_100k.npy` y `keypoints_100k.npy`.
+
+
 **IMPORTANTE**
 Si no quieres ejecutar el preprocess y el training y solo quieres ejecutar el test.ipynb y error_analysis.ipynb, este link del drive tiene un zip con todos los .pkl, .npy.
 Simplemente descomprimes los archivos en la carpeta preprocessed y ejecutas los dos test.ipynb y error_analysis.ipynb.
